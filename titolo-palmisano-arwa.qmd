@@ -1330,7 +1330,7 @@ Presentation online at the qrcode above or at the following [link](https://www.a
 
 <br>
 
- {{< ai zenodo >}} [https://doi.org/10.5281/zenodo.12011486](https://doi.org/10.5281/zenodo.12011486)
+ {{< ai zenodo >}} [https://doi.org/10.5281/zenodo.15124042](https://doi.org/10.5281/zenodo.15124042)
 
  {{< bi github >}} [Slides Source Code](https://github.com/UnitoAssyrianGovernance/arwa-lecture-2025) - [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
