@@ -701,7 +701,7 @@ format:
 
 ::: {.column width="40%"}
 - Long term analysis of radiocarbon dates show demographic fluctuations (estimates)
-- Comparison with exponential model: statistically significant increase in the transition between LB/IA I (1300-1150 BC) and IA I/IIa (1150-780 BC)
+- Comparison with exponential model: statistically significant increase in the transition between LB/IA I (1300-1150 BC) and IA I/IIa (1150-830 BC)
 - Gradual decline but artificial drop for later periods
 :::
 
@@ -835,12 +835,12 @@ Regional trends highlight differences between Samaria and Judah
 
 ::: {.column width="50%"}
 
-- No strong centralization in IA IIa (950-780 BC)
-- Process towards a pronounced centralization already in IA IIb (780-680 BC)
+- No strong centralization in IA IIa (980-830 BC)
+- Process towards a pronounced centralization already in IA IIb (830-720 BC)
 - Birth and rise of Samaria as capital (IA IIa/b) and then provincial centre (IA IIb/c)
 
 ::: {.fragment fragment-index=1}
-- Less sites in IA IIc (680-586 BC) but more primate curve
+- Less sites in IA IIc (720-539 BC) but more primate curve
 - Probably a result of Assyrian administration
 - This pattern lingers until Iron Age III (539-333 BC)
 :::
@@ -866,9 +866,9 @@ Regional trends highlight differences between Samaria and Judah
 ::: {.columns}
 
 ::: {.column width="50%"}
-- No strong centralization in IA IIa (950-780)
-- Zipfian-like distributioun in Iron Age IIb (780-680 BC) ("formative" stages of Jerusalem)
-- Centralization clearly evident in Iron Age IIc (680-586 BC)
+- No strong centralization in IA IIa (980-830)
+- Zipfian-like distributioun in Iron Age IIb (830-720 BC) ("formative" stages of Jerusalem)
+- Centralization clearly evident in Iron Age IIc (720-539 BC)
 - Less sites in general for IA subphases
 :::
 
@@ -946,7 +946,7 @@ NB: Only sites surely dated to each IA subperiod are shown on the map
 ::: {.columns}
 
 ::: {.column width="40%"}
-- Spatial Distribution of  "abandoned" IA IIc (680-586 BC) sites might indicate issues of sites chronological attribution
+- Spatial Distribution of  "abandoned" IA IIc (720-539 BC) sites might indicate limitations of sites chronological attribution
 
 ::: {.fragment fragment-index=1}
 - Or, chronological period including fall of Neo-Assyrian empire
